@@ -39,4 +39,4 @@ uint16_t getFrameTicks(void);
 extern car_t cars[NUM_CARS];
 
 extern uint32_t palette[16];
-#endif /* UCHIPPLAY_H_ */
+#endif /* MAIN_H_ */
